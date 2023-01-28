@@ -22,7 +22,7 @@ A LBCH full node for building applications and services with Node.js. A node is 
 4. Install lbchcore-node  
 
     ```bash
-    npm i https://github.com/LightBurdenOfficial/lbchcore-node.git#master
+    npm i https://github.com/LightBurdenOfficial/lbchcore-node.git#main
 
     $(npm bin)/lbchcore-node create mynode
 
