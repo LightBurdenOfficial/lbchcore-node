@@ -2381,7 +2381,7 @@ qs@~6.3.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.2.tgz#e75bd5f6e268122a2a0e0bda630b2550c166502c"
   integrity sha1-51vV9uJoEioqDgvaYwslUMFmUCw=
 
-"lbchcore-lib@https://github.com/LightBurdenOfficial/lbchcore-lib.git#master":
+"lbchcore-lib@https://github.com/LightBurdenOfficial/lbchcore-lib.git#main":
   version "0.0.1"
   resolved "https://github.com/LightBurdenOfficial/lbchcore-lib.git#140d5b38571ca6e247dec5add3d80be4123c9233"
   dependencies:
@@ -2392,7 +2392,7 @@ qs@~6.3.0:
     inherits "=2.0.1"
     lodash "=3.10.1"
 
-"lbchd-rpc@https://github.com/LightBurdenOfficial/lbchd-rpc.git#master":
+"lbchd-rpc@https://github.com/LightBurdenOfficial/lbchd-rpc.git#main":
   version "0.0.4"
   resolved "https://github.com/LightBurdenOfficial/lbchd-rpc.git#1db2cc426b9e0182431a2574a84a3b133e363bca"
 
